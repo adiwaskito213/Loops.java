@@ -1,2 +1,2 @@
-# Loops.java
+# loops.java
 Pembelajaran loop java dengan for atau dengan while 
